@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "jquery": "^3.6.3"
+    "axios": "^1.2.4",
+    "jquery": "^3.6.3",
+    "vue": "^3.2.45",
+    "vue-route": "^1.5.1",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.0.2"
   }
 }
